@@ -1,0 +1,6 @@
+{
+  "name": "SubVault - Subscription Tracker & Manager",
+  "description": "Track, manage, and budget recurring subscriptions, upcoming renewals, free trials, and annual spending with renewal alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
